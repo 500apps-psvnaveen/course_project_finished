@@ -51,6 +51,7 @@
     </form>
   </base-card>
 </template>
+// above code is vue js code and below code is script code script code provides the functionality to the html code which is above code.
 
 <script>
 import BaseDialog from '../UI/BaseDialog.vue';
